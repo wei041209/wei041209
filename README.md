@@ -83,6 +83,4 @@ X/Twitter: https://x.com/weicheng_04
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wei041209&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wei041209&layout=compact&theme=tokyonight)
